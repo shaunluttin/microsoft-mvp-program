@@ -52,7 +52,8 @@ $pretty = $contributions | Select-Object ContributionTypeName, Title, Descriptio
 # Write to file
 #
 
-$pretty | Out-File get-contributions.txt -Encoding utf8
-Write-Output "Open get-contributions.txt for the results."
+$outfile = "output.txt";
+$pretty | Out-File $outfile -Encoding utf8
+Write-Output "Open $outfile for the results."
 
 
