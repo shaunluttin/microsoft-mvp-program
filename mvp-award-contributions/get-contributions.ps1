@@ -40,13 +40,19 @@ $contributions = $response | Select-Object -ExpandProperty Content | ConvertFrom
 # Filter the contributions.
 #
 
-$contributions | Where-Object { (Get-Date $_.StartDate ) -gt (Get-Date $cycleStartDate) }
+$pretty = $contributions | Where-Object { (Get-Date $_.StartDate ) -gt (Get-Date $cycleStartDate) }
 
 #
 # Make the contributions kind of prettier.
 #
 
-$contributions | Select-Object ContributionTypeName, Title, Description, ReferenceUrl, AnnualQuantity, StartDate | Format-List
+$pretty = $contributions | Select-Object ContributionTypeName, Title, Description, ReferenceUrl, AnnualQuantity, StartDate | Format-List
 
+#
+# Write to file
+#
+
+$pretty | Out-File get-contributions.txt -Encoding utf8
+Write-Output "Open get-contributions.txt for the results."
 
 
