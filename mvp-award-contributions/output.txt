@@ -1,5 +1,83 @@
 ﻿
 
+ContributionTypeName : Open Source Project(s)
+Title                : aurelia-open-id-connect
+Description          : This plugin adapts oidc-client-js to the Aurelia router. It has 45 stars, 9 forks, and 6 watchers. The project is now under the aurelia-contrib organization. 
+                       We've made 207 commits since 01 April 2017 and have made a 1.0 release.
+ReferenceUrl         : https://github.com/aurelia-contrib/aurelia-open-id-connect
+AnnualQuantity       : 1
+AnnualReach          : 207
+StartDate            : 2018-03-31T00:00:00
+
+ContributionTypeName : Open Source Project(s)
+Title                : aurelia-open-id-connect-demos
+Description          : Demos of aurelia-open-id-connect. Each demo has its own README.md that explains how to use it. We demonstrate how to connect to Azure Active Directory, 
+                       Auth0, and Identity Server.
+ReferenceUrl         : https://github.com/shaunluttin/aurelia-open-id-connect-demos
+AnnualQuantity       : 1
+AnnualReach          : 73
+StartDate            : 2018-03-31T00:00:00
+
+ContributionTypeName : Open Source Project(s)
+Title                : design-patterns
+Description          : Conversion of some Gang of Four design patterns into C# and TypeScript.
+ReferenceUrl         : https://github.com/shaunluttin/design-patterns
+AnnualQuantity       : 1
+AnnualReach          : 213
+StartDate            : 2018-03-31T00:00:00
+
+ContributionTypeName : Open Source Project(s)
+Title                : algorithms
+Description          : Self-guided learning of algorithms. This repository expands on two others: 
+                       
+                       * Main repo (54 commits)
+                       * https://github.com/shaunluttin/algorithms-unlocked (35 commits)
+                       * https://github.com/shaunluttin/khan-academy-algorithms (33 commits)
+                       
+                       The algorithm examples are predominantly in F#, C#, TypeScript, and JavaScript.
+ReferenceUrl         : https://github.com/shaunluttin/algorithms
+AnnualQuantity       : 3
+AnnualReach          : 122
+StartDate            : 2018-03-31T00:00:00
+
+ContributionTypeName : Blog Site Posts
+Title                : Blog posts in the general area of ASP.NET
+Description          : We blog about ASP.NET, Azure, and its surrounding technologies. Those other technologies include TypeScript, PowerShell, JavaScript, .NET Languages, VS Code, 
+                       Vim, et cetera.
+ReferenceUrl         : http://blog.bigfont.ca
+AnnualQuantity       : 55
+AnnualReach          : 7300
+StartDate            : 2018-03-31T00:00:00
+
+ContributionTypeName : Technical Social Media (Twitter, Facebook, LinkedIn...)
+Title                : Total Yearly Tweets
+Description          : Tweets were sometimes strictly technical content in the Tweet, other times were links to projects and/or blog posts, and sometimes were involvement in 
+                       technical conversations. (Number of Posts is approximate).
+ReferenceUrl         : https://twitter.com/shaunluttin
+AnnualQuantity       : 150
+AnnualReach          : 366
+StartDate            : 2018-03-31T00:00:00
+
+ContributionTypeName : Technical Social Media (Twitter, Facebook, LinkedIn...)
+Title                : LinkedIn
+Description          : From LinkedIn: Shaun is a Microsoft Certified Professional Developer, four-time Microsoft Most Valuable Professional, and winner of the 2016 Web Not War 
+                       Award. (Number of Posts is approximate).
+ReferenceUrl         : https://www.linkedin.com/in/shaunluttin/
+AnnualQuantity       : 25
+AnnualReach          : 777
+StartDate            : 2018-03-31T00:00:00
+
+ContributionTypeName : Forum Participation (3rd Party forums)
+Title                : StackOverflow Activity
+Description          : We have a notably popular answer about .NET Core with over 200 up-votes.
+                       
+                       The data for the number of answers, number of posts, and views of posts come from this data explorer query: 
+                       https://data.stackexchange.com/stackoverflow/query/552916/answers-posts-and-total-views-by-date-range-and-displayname
+ReferenceUrl         : https://stackoverflow.com/users/1108891/shaun-luttin
+AnnualQuantity       : 85
+AnnualReach          : 652200
+StartDate            : 2018-03-31T00:00:00
+
 ContributionTypeName : Mentorship
 Title                : Second Meeting with MSP Mentee
 Description          : We spoke about the importance of a choosing a location to work when choosing a career path. We also spoke about conflict resolution in the workplace, about 
@@ -169,14 +247,6 @@ ReferenceUrl         : https://github.com/OmniSharp/omnisharp-vscode/pull/1461
 AnnualQuantity       : 1
 AnnualReach          : 1
 StartDate            : 2017-05-05T07:00:00
-
-ContributionTypeName : Blog Site Posts
-Title                : BigFont Blog
-Description          : 
-ReferenceUrl         : http://bigfontblog.azurewebsites.net/
-AnnualQuantity       : 35
-AnnualReach          : 700
-StartDate            : 2017-04-06T07:00:00
 
 
 
