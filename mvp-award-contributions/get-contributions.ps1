@@ -34,19 +34,19 @@ $headers["Ocp-Apim-Subscription-Key"] = $subscriptionKey;
 $headers["Authorization"] = "Bearer $bearerToken";
 
 $response = Invoke-WebRequest -UseBasicParsing "https://mvpapi.azure-api.net/mvp/api/contributions/$offset/$limit" -Headers $headers
-$contributions = $response | Select-Object -ExpandProperty Content | ConvertFrom-Json | Select-Object -ExpandProperty Contributions
+$global:contributions = $response | Select-Object -ExpandProperty Content | ConvertFrom-Json | Select-Object -ExpandProperty Contributions
 
 #
 # Filter the contributions.
 #
 
-$pretty = $contributions | Where-Object { (Get-Date $_.StartDate ) -gt (Get-Date $cycleStartDate) }
+$filtered = $global:contributions | Where-Object { (Get-Date $_.StartDate ) -gt (Get-Date $cycleStartDate) }
 
 #
 # Make the contributions kind of prettier.
 #
 
-$pretty = $contributions | Select-Object ContributionTypeName, Title, Description, ReferenceUrl, AnnualQuantity, StartDate | Format-List
+$pretty = $filtered | Select-Object ContributionTypeName, Title, Description, ReferenceUrl, AnnualQuantity, AnnualReach, StartDate | Format-List
 
 #
 # Write to file

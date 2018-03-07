@@ -1,0 +1,182 @@
+﻿
+
+ContributionTypeName : Mentorship
+Title                : Second Meeting with MSP Mentee
+Description          : We spoke about the importance of a choosing a location to work when choosing a career path. We also spoke about conflict resolution in the workplace, about 
+                       F# development and permutations. Further, we spoke about making career related decision using either a cost benefit analysis or a list of values against 
+                       which we rate career opportunities. 
+ReferenceUrl         : 
+AnnualQuantity       : 1
+AnnualReach          : 1
+StartDate            : 2018-02-26T00:00:00
+
+ContributionTypeName : Mentorship
+Title                : First Meeting with MSP Mentee
+Description          : Get to know each other and plan the mentor mentee relationship.
+ReferenceUrl         : 
+AnnualQuantity       : 1
+AnnualReach          : 1
+StartDate            : 2018-01-08T08:00:00
+
+ContributionTypeName : Open Source Project(s)
+Title                : Add Resource.js typings
+Description          : Adds a new TypeScript declaration file for Resource.js. 
+ReferenceUrl         : https://github.com/DefinitelyTyped/DefinitelyTyped/pull/21183
+AnnualQuantity       : 1
+AnnualReach          : 1
+StartDate            : 2017-11-10T00:00:00
+
+ContributionTypeName : Open Source Project(s)
+Title                : Cannot read property 'end' of undefined at getFullWidth
+Description          : Found and reported TypeScript compiler bug. The TypeScript team fixed the bug. 
+ReferenceUrl         : https://github.com/Microsoft/TypeScript/issues/19782
+AnnualQuantity       : 1
+AnnualReach          : 0
+StartDate            : 2017-11-06T00:00:00
+
+ContributionTypeName : Speaking (User group)
+Title                : Design Principles with C# & TypeScript examples
+Description          : From the presentation's description: "Familiarity with object-oriented design principles helps us write loosely-coupled code, which is easier to maintain, 
+                       change, and reuse. The Gang of Four Design Patterns provide canonical, battle-tested examples of those principles in action. While the presentation gives 
+                       examples in C# and TypeScript, design principles are language agnostic: regardless of our software language of choice. As we increase our understanding of 
+                       design principles, we also improve our ability as object-oriented software developers."
+ReferenceUrl         : https://www.meetup.com/NET-User-Group-of-BC/events/243307003/?_cookie-check=E-mpL1P-XRQd54Jq
+AnnualQuantity       : 1
+AnnualReach          : 117
+StartDate            : 2017-10-04T00:00:00
+
+ContributionTypeName : Conference (organizer)
+Title                : BuildDirect Talks & Hosts: '.NET Conf 2017'
+Description          : Organized a .NET Conf 2017 event at my employer and presented on .NET Core. 
+ReferenceUrl         : https://www.meetup.com/BuildDirect-Talks-Meetup/events/242623366/
+AnnualQuantity       : 1
+AnnualReach          : 30
+StartDate            : 2017-09-20T00:00:00
+
+ContributionTypeName : Speaking (Local)
+Title                : Seven (magic) tricks for your successful software development career.
+Description          : BCIT invited me to speak about my career path and to provide recommendations for students' studies and career paths. After the formal talk, we will spent 
+                       some time talking about .NET Core 2.0 and Web API. 
+ReferenceUrl         : https://www.bcit.ca/study/programs/699ccertt
+AnnualQuantity       : 1
+AnnualReach          : 30
+StartDate            : 2017-09-14T00:00:00
+
+ContributionTypeName : Product Group Interaction (PGI)
+Title                : .NET Conf Local Events & .NET Core Product Updates - Option 2
+Description          : 
+ReferenceUrl         : 
+AnnualQuantity       : 1
+AnnualReach          : 0
+StartDate            : 2017-08-15T23:00:00
+
+ContributionTypeName : Product Group Interaction (PGI)
+Title                : .NET Conf Local Events & .NET Core Product Updates - Option 2
+Description          : 
+ReferenceUrl         : 
+AnnualQuantity       : 1
+AnnualReach          : 0
+StartDate            : 2017-08-15T23:00:00
+
+ContributionTypeName : Product Group Interaction (PGI)
+Title                : .NET Conf Local Events & .NET Core Product Updates - Option 1
+Description          : 
+ReferenceUrl         : 
+AnnualQuantity       : 1
+AnnualReach          : 0
+StartDate            : 2017-08-15T15:00:00
+
+ContributionTypeName : Product Group Interaction (PGI)
+Title                : .NET Conf Local Events & .NET Core Product Updates - Option 1
+Description          : 
+ReferenceUrl         : 
+AnnualQuantity       : 1
+AnnualReach          : 0
+StartDate            : 2017-08-15T15:00:00
+
+ContributionTypeName : Product Group Interaction (PGI)
+Title                : .NET Conf Local Events & .NET Core Product Updates - Option 1
+Description          : 
+ReferenceUrl         : 
+AnnualQuantity       : 1
+AnnualReach          : 0
+StartDate            : 2017-08-15T15:00:00
+
+ContributionTypeName : Open Source Project(s)
+Title                : Merged pull request to DefinitelyTyped
+Description          : Adds further methods to the assert interface.
+ReferenceUrl         : https://github.com/DefinitelyTyped/DefinitelyTyped/pull/18835
+AnnualQuantity       : 1
+AnnualReach          : 2
+StartDate            : 2017-08-10T07:00:00
+
+ContributionTypeName : Open Source Project(s)
+Title                : Merged pull request to DefinitelyTyped
+Description          : Adds three methods to Chai's assert interface.
+ReferenceUrl         : https://github.com/DefinitelyTyped/DefinitelyTyped/pull/18420
+AnnualQuantity       : 1
+AnnualReach          : 1
+StartDate            : 2017-07-31T00:00:00
+
+ContributionTypeName : Open Source Project(s)
+Title                : Merged pull request to openiddict-samples
+Description          : Simplifies the package.json and tsconfig.json. Paves the way for using async/await in the TypeScript.
+ReferenceUrl         : https://github.com/openiddict/openiddict-samples/pull/45
+AnnualQuantity       : 1
+AnnualReach          : 2
+StartDate            : 2017-07-29T07:00:00
+
+ContributionTypeName : Open Source Project(s)
+Title                : Merged pull-request to openiddict-samples
+Description          : Improves the PowerShell commands for running the samples.
+ReferenceUrl         : https://github.com/openiddict/openiddict-samples/pull/49
+AnnualQuantity       : 1
+AnnualReach          : 3
+StartDate            : 2017-07-29T07:00:00
+
+ContributionTypeName : Open Source Project(s)
+Title                : Merged pull request to openiddict-samples
+Description          : The pull request fixes the following error: 
+                       
+                       System.InvalidOperationException: The view 'Index' was not found. The following locations were searched...
+                       
+                       Two ASP.NET Core MVC project need this fix: CodeFlow, ImplicitFlow
+ReferenceUrl         : https://github.com/openiddict/openiddict-samples/pull/46
+AnnualQuantity       : 1
+AnnualReach          : 2
+StartDate            : 2017-07-29T00:00:00
+
+ContributionTypeName : Open Source Project(s)
+Title                : Merged pull request to openiddict-samples
+Description          : Provides instructions and feedback for command line users. 
+ReferenceUrl         : https://github.com/openiddict/openiddict-samples/pull/48
+AnnualQuantity       : 1
+AnnualReach          : 4
+StartDate            : 2017-07-29T00:00:00
+
+ContributionTypeName : Speaking (Local)
+Title                : BuildDirect Lightning Talks: Software Engineering - BuildDirect Talks Meetup (Vancouver, BC) | Meetup
+Description          : 15-minute lightning talk on nine design principles for object-oriented software development.
+ReferenceUrl         : https://www.meetup.com/BuildDirect-Talks-Meetup/events/241158980/
+AnnualQuantity       : 1
+AnnualReach          : 46
+StartDate            : 2017-07-06T07:00:00
+
+ContributionTypeName : Open Source Project(s)
+Title                : Merged pull request to omnisharp-vscode
+Description          : The PR fixed a bug in the C# snippet. 
+ReferenceUrl         : https://github.com/OmniSharp/omnisharp-vscode/pull/1461
+AnnualQuantity       : 1
+AnnualReach          : 1
+StartDate            : 2017-05-05T07:00:00
+
+ContributionTypeName : Blog Site Posts
+Title                : BigFont Blog
+Description          : 
+ReferenceUrl         : http://bigfontblog.azurewebsites.net/
+AnnualQuantity       : 35
+AnnualReach          : 700
+StartDate            : 2017-04-06T07:00:00
+
+
+
